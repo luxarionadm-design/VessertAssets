@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Hashtag",
+  "type": "object",
+  "properties": {
+    "tag": {
+      "type": "string"
+    },
+    "postCount": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "tag"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,10 @@
+{
+  "liveStreams": [
+    {
+      "id": "live_01",
+      "host": "sarah_cg",
+      "title": "Live Modeling Session",
+      "viewers": 420
+    }
+  ]
+}

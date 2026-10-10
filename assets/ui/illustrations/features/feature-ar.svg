@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0F172A"/>
+  <!-- AR Face Mesh Mask -->
+  <polygon points="200,60 230,80 235,120 200,150 165,120 170,80" stroke="#22D3EE" stroke-width="2" fill="#06B6D4" fill-opacity="0.1"/>
+  <line x1="200" y1="60" x2="200" y2="150" stroke="#22D3EE" stroke-width="1.5"/>
+  <line x1="170" y1="80" x2="230" y2="80" stroke="#22D3EE" stroke-width="1.5"/>
+  <line x1="165" y1="120" x2="235" y2="120" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="185" cy="95" r="4" fill="#22D3EE"/>
+  <circle cx="215" cy="95" r="4" fill="#22D3EE"/>
+  <text x="200" y="240" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFF" text-anchor="middle">Face Filters &amp; AR Tracking</text>
+</svg>

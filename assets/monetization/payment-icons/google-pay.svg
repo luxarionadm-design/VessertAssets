@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 64" width="100" height="64" fill="none">
+  <rect width="100" height="64" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <!-- G logo -->
+  <path d="M36 32c0-.7-.06-1.4-.18-2.1H28v4h4.5a3.9 3.9 0 0 1-1.7 2.6v2.1h2.7c1.6-1.5 2.5-3.8 2.5-6.6z" fill="#4285F4"/>
+  <path d="M28 40.2c2.2 0 4.1-.7 5.5-2l-2.7-2.1c-.7.5-1.7.8-2.8.8-2.2 0-4-1.5-4.7-3.5H20.5v2.2a7.1 7.1 0 0 0 7.5 4.6z" fill="#34A853"/>
+  <path d="M23.3 33.4a4.3 4.3 0 0 1 0-2.8V28.4H20.5a7.1 7.1 0 0 0 0 7.2l2.8-2.2z" fill="#FBBC05"/>
+  <path d="M28 26.6c1.2 0 2.3.4 3.2 1.2l2.4-2.4a7.1 7.1 0 0 0-5.6-2.2 7.1 7.1 0 0 0-7.5 4.6l2.8 2.2c.7-2 2.5-3.4 4.7-3.4z" fill="#EA4335"/>
+  <!-- Pay text -->
+  <text x="44" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#5F6368">Pay</text>
+</svg>

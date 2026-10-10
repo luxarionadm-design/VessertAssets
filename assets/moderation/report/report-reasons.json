@@ -1,0 +1,24 @@
+{
+  "reasons": [
+    {
+      "id": "spam",
+      "label": "Spam or Commercial Solicitation"
+    },
+    {
+      "id": "harassment",
+      "label": "Harassment or Bullying"
+    },
+    {
+      "id": "hate_speech",
+      "label": "Hate Speech or Discrimination"
+    },
+    {
+      "id": "nudity",
+      "label": "Unconsented Adult Content"
+    },
+    {
+      "id": "copyright",
+      "label": "Copyright or Intellectual Property Infringement"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0F172A"/>
+  <circle cx="200" cy="110" r="50" stroke="#6366F1" stroke-width="3"/>
+  <ellipse cx="200" cy="110" rx="50" ry="18" stroke="#06B6D4" stroke-width="2" stroke-dasharray="4 2"/>
+  <text x="200" y="225" font-family="-apple-system, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle">Explore 3D Worlds</text>
+  <text x="200" y="255" font-family="-apple-system, sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">Discover interactive models and spatial realities.</text>
+</svg>

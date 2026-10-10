@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "id": "m_1",
+      "threadId": "th_1",
+      "sender": "alex_3d",
+      "text": "Hi! Any suggestions for optimizing draw calls across complex scenes?",
+      "timestamp": "2026-10-10T05:00:00Z"
+    }
+  ]
+}

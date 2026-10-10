@@ -1,0 +1,10 @@
+{
+  "reels": [
+    {
+      "id": "reel_01",
+      "creator": "alex_3d",
+      "videoUrl": "assets/content/reels/reel-01/source.mp4",
+      "likes": 8320
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" fill="none">
+  <defs>
+    <linearGradient id="e500-bg" x1="0" y1="0" x2="480" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#18181B"/>
+      <stop offset="100%" stop-color="#09090B"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="16" fill="url(#e500-bg)"/>
+  <!-- Server Rack with Spark -->
+  <rect x="180" y="50" width="120" height="130" rx="8" fill="#27272A" stroke="#3F3F46" stroke-width="2"/>
+  <rect x="190" y="65" width="100" height="20" rx="3" fill="#18181B"/>
+  <circle cx="205" cy="75" r="3" fill="#EF4444"/>
+  <circle cx="215" cy="75" r="3" fill="#EF4444"/>
+  <rect x="190" y="95" width="100" height="20" rx="3" fill="#18181B"/>
+  <circle cx="205" cy="105" r="3" fill="#EF4444"/>
+  <rect x="190" y="125" width="100" height="20" rx="3" fill="#18181B"/>
+  <circle cx="205" cy="135" r="3" fill="#EF4444"/>
+  <!-- Electric Sparks -->
+  <path d="M310 110 L330 90 L325 115 L345 95" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="240" y="215" font-family="-apple-system, sans-serif" font-size="34" font-weight="900" fill="#EF4444" text-anchor="middle">500 SERVER ERROR</text>
+  <text x="240" y="250" font-family="-apple-system, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" text-anchor="middle">Internal Server Error</text>
+  <text x="240" y="275" font-family="-apple-system, sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">The engine encountered an error. Our team has been notified.</text>
+</svg>

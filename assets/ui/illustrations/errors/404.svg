@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" fill="none">
+  <defs>
+    <linearGradient id="e404-bg" x1="0" y1="0" x2="480" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090D16"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="e404-planet" x1="80" y1="60" x2="160" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="16" fill="url(#e404-bg)"/>
+  <!-- Starfield -->
+  <circle cx="80" cy="40" r="1.5" fill="#FFF" opacity="0.6"/>
+  <circle cx="420" cy="50" r="1.5" fill="#FFF" opacity="0.8"/>
+  <circle cx="360" cy="180" r="1.2" fill="#FFF" opacity="0.5"/>
+  <circle cx="100" cy="220" r="1.2" fill="#FFF" opacity="0.7"/>
+  <!-- Cratered Planet -->
+  <circle cx="120" cy="90" r="35" fill="url(#e404-planet)"/>
+  <ellipse cx="120" cy="90" rx="55" ry="12" fill="none" stroke="#A5B4FC" stroke-width="2" transform="rotate(-20 120 90)"/>
+  <!-- Floating Astronaut -->
+  <g transform="translate(290, 60)">
+    <circle cx="40" cy="30" r="16" fill="#F8FAFC"/>
+    <rect x="30" y="24" width="20" height="12" rx="4" fill="#06B6D4"/>
+    <rect x="28" y="44" width="24" height="30" rx="6" fill="#E2E8F0"/>
+    <path d="M28 72 L20 94 M52 72 L60 94" stroke="#CBD5E1" stroke-width="6" stroke-linecap="round"/>
+    <path d="M28 50 L14 62 M52 50 L66 62" stroke="#CBD5E1" stroke-width="5" stroke-linecap="round"/>
+    <!-- Detached Tether Line -->
+    <path d="M40 44 Q20 20 0 35 T-30 10" stroke="#6366F1" stroke-width="2" fill="none" stroke-dasharray="3 3"/>
+  </g>
+  <!-- 404 Text -->
+  <text x="240" y="210" font-family="-apple-system, sans-serif" font-size="64" font-weight="900" letter-spacing="-3" fill="#818CF8" text-anchor="middle">404</text>
+  <text x="240" y="250" font-family="-apple-system, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">Page Not Found</text>
+  <text x="240" y="275" font-family="-apple-system, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">The requested 3D model or page could not be located.</text>
+</svg>

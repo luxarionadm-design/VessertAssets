@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" width="240" height="48" fill="none">
+  <rect width="240" height="48" rx="8" fill="#312E81" fill-opacity="0.3" stroke="#6366F1" stroke-width="1.5"/>
+  <circle cx="28" cy="24" r="10" fill="#6366F1"/>
+  <text x="28" y="29" font-family="sans-serif" font-size="12" font-weight="900" fill="#FFF" text-anchor="middle">i</text>
+  <text x="50" y="30" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" fill="#818CF8">DISPUTED INFORMATION</text>
+</svg>

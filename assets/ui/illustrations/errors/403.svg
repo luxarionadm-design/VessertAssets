@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" fill="none">
+  <defs>
+    <linearGradient id="e403-bg" x1="0" y1="0" x2="480" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2D0606"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="16" fill="url(#e403-bg)"/>
+  <!-- Security Barrier Gate -->
+  <rect x="140" y="70" width="200" height="100" rx="10" fill="#1E293B" stroke="#DC2626" stroke-width="2"/>
+  <line x1="140" y1="95" x2="340" y2="95" stroke="#EF4444" stroke-width="2"/>
+  <line x1="140" y1="120" x2="340" y2="120" stroke="#EF4444" stroke-width="2"/>
+  <line x1="140" y1="145" x2="340" y2="145" stroke="#EF4444" stroke-width="2"/>
+  <!-- Prohibition Hand -->
+  <circle cx="240" cy="120" r="32" fill="#EF4444"/>
+  <path d="M228 110 h8 v15 h-8z M238 105 h8 v20 h-8z M248 108 h8 v17 h-8z" fill="#FFF"/>
+  <text x="240" y="215" font-family="-apple-system, sans-serif" font-size="34" font-weight="900" fill="#EF4444" text-anchor="middle">403 FORBIDDEN</text>
+  <text x="240" y="250" font-family="-apple-system, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" text-anchor="middle">Access Forbidden</text>
+  <text x="240" y="275" font-family="-apple-system, sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">You do not have required permissions to access this resource.</text>
+</svg>

@@ -1,0 +1,42 @@
+{
+  "tiers": [
+    {
+      "id": "free",
+      "name": "Community Basic",
+      "priceMonthly": 0,
+      "currency": "USD",
+      "features": [
+        "Standard 3D viewers",
+        "Up to 5 reels/day",
+        "Community access",
+        "Standard resolution"
+      ]
+    },
+    {
+      "id": "creator_pro",
+      "name": "Creator Pro",
+      "priceMonthly": 9.99,
+      "currency": "USD",
+      "features": [
+        "Unlimited 4K reels",
+        "Custom GLSL Shaders",
+        "AR Face tracking filters",
+        "Creator Monetization & Tips",
+        "Priority render queue"
+      ]
+    },
+    {
+      "id": "studio_business",
+      "name": "Studio Business",
+      "priceMonthly": 29.99,
+      "currency": "USD",
+      "features": [
+        "Multi-seat team workspace",
+        "Dedicated render instances",
+        "Priority API endpoints",
+        "Custom branding & whitelabeling",
+        "24/7 Enterprise SLA"
+      ]
+    }
+  ]
+}

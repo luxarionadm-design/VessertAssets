@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0F172A"/>
+  <!-- Canvas Easel waiting for art -->
+  <polygon points="150,60 250,60 270,180 130,180" fill="#1E293B" stroke="#475569" stroke-width="2"/>
+  <line x1="160" y1="180" x2="140" y2="220" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <line x1="240" y1="180" x2="260" y2="220" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <line x1="200" y1="60" x2="200" y2="40" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <!-- Paint Palette with colored dabs -->
+  <circle cx="200" cy="120" r="28" fill="#334155"/>
+  <circle cx="190" cy="115" r="4" fill="#EF4444"/>
+  <circle cx="210" cy="115" r="4" fill="#F59E0B"/>
+  <circle cx="200" cy="130" r="4" fill="#06B6D4"/>
+  <text x="200" y="250" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFF" text-anchor="middle">Your Feed Is Empty</text>
+  <text x="200" y="272" font-family="-apple-system, sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">Follow 3D creators or publish your first creation!</text>
+</svg>

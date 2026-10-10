@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Comment",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "postId": {
+      "type": "string"
+    },
+    "user": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "likes": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "id",
+    "postId",
+    "text"
+  ],
+  "additionalProperties": false
+}

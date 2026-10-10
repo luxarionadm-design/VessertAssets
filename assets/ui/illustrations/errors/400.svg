@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" fill="none">
+  <defs>
+    <linearGradient id="e400-bg" x1="0" y1="0" x2="480" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="e400-accent" x1="160" y1="80" x2="320" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F43F5E"/>
+      <stop offset="100%" stop-color="#E11D48"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="16" fill="url(#e400-bg)"/>
+  <!-- Code Terminal Window -->
+  <rect x="70" y="40" width="340" height="170" rx="12" fill="#1E293B" stroke="#334155" stroke-width="2"/>
+  <rect x="70" y="40" width="340" height="30" rx="12" fill="#0F172A"/>
+  <circle cx="92" cy="55" r="5" fill="#EF4444"/>
+  <circle cx="108" cy="55" r="5" fill="#F59E0B"/>
+  <circle cx="124" cy="55" r="5" fill="#10B981"/>
+  <text x="240" y="59" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#64748B" text-anchor="middle">terminal — error.log</text>
+  <!-- Error Syntax Output -->
+  <text x="94" y="102" font-family="ui-monospace, monospace" font-size="13" font-weight="700" fill="#F43F5E">&gt; RequestSyntaxError</text>
+  <text x="94" y="128" font-family="ui-monospace, monospace" font-size="12" fill="#94A3B8">Payload validation failed [400]</text>
+  <line x1="94" y1="150" x2="280" y2="150" stroke="#EF4444" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <!-- 400 Pill Badge -->
+  <rect x="180" y="180" width="120" height="36" rx="18" fill="url(#e400-accent)"/>
+  <text x="240" y="204" font-family="-apple-system, sans-serif" font-size="16" font-weight="900" fill="#FFFFFF" text-anchor="middle">400 BAD REQUEST</text>
+  <text x="240" y="254" font-family="-apple-system, sans-serif" font-size="18" font-weight="800" fill="#F8FAFC" text-anchor="middle">Invalid Request Syntax</text>
+  <text x="240" y="280" font-family="-apple-system, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">The submitted parameters could not be processed by the API.</text>
+</svg>

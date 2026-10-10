@@ -1,0 +1,6 @@
+Open Source Software Notices:
+- Node.js (MIT License)
+- Three.js (MIT License)
+- Rollup (MIT License)
+- Lucide Icons (ISC License)
+- ESLint (MIT License)

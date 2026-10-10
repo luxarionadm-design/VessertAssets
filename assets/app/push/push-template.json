@@ -1,0 +1,10 @@
+{
+  "title": "{{sender_name}} liked your 3D creation",
+  "body": "Open VessertID to see the latest community interactions on your post.",
+  "sound": "push-sound.mp3",
+  "badge": 1,
+  "data": {
+    "screen": "post_detail",
+    "post_id": "{{post_id}}"
+  }
+}

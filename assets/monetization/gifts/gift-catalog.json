@@ -1,0 +1,34 @@
+{
+  "gifts": [
+    {
+      "id": "gift_1",
+      "name": "Sparkle Star",
+      "coins": 10,
+      "icon": "gift-1.svg"
+    },
+    {
+      "id": "gift_2",
+      "name": "Neon Diamond",
+      "coins": 50,
+      "icon": "gift-2.svg"
+    },
+    {
+      "id": "gift_3",
+      "name": "3D Hologram Cube",
+      "coins": 200,
+      "icon": "gift-3.svg"
+    },
+    {
+      "id": "gift_4",
+      "name": "Cyber Rocket",
+      "coins": 500,
+      "icon": "gift-4.svg"
+    },
+    {
+      "id": "gift_5",
+      "name": "Super Galaxy",
+      "coins": 2000,
+      "icon": "gift-5.svg"
+    }
+  ]
+}

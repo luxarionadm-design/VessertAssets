@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 68" width="270" height="68" fill="none">
+  <defs>
+    <linearGradient id="pci-grad" x1="0" y1="0" x2="270" y2="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="268" height="66" rx="10" fill="#0F172A" stroke="url(#pci-grad)" stroke-width="2"/>
+  <g transform="translate(14, 14)">
+    <rect x="4" y="8" width="32" height="24" rx="4" fill="#10B981" fill-opacity="0.2" stroke="#10B981" stroke-width="2"/>
+    <line x1="4" y1="14" x2="36" y2="14" stroke="#10B981" stroke-width="2"/>
+    <circle cx="12" cy="24" r="2" fill="#34D399"/>
+  </g>
+  <text x="64" y="29" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="800" letter-spacing="0.5" fill="#FFFFFF">
+    SECURE PAYMENT
+  </text>
+  <text x="64" y="47" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.5" fill="#34D399">
+    PCI-DSS LEVEL 1 VERIFIED
+  </text>
+</svg>

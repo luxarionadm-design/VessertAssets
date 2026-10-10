@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" fill="none">
+  <rect width="600" height="240" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+  <text x="32" y="32" font-family="-apple-system, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Weekly Rendering Activity Heatmap (24 Hours)</text>
+  <g transform="translate(40, 55)">
+    <!-- 7 rows (days) x 12 cols (2-hr blocks) -->
+    <rect x="40" y="0" width="38" height="18" rx="3" fill="#1E293B"/>
+    <rect x="82" y="0" width="38" height="18" rx="3" fill="#312E81"/>
+    <rect x="124" y="0" width="38" height="18" rx="3" fill="#4338CA"/>
+    <rect x="166" y="0" width="38" height="18" rx="3" fill="#4F46E5"/>
+    <rect x="208" y="0" width="38" height="18" rx="3" fill="#6366F1"/>
+    <rect x="250" y="0" width="38" height="18" rx="3" fill="#818CF8"/>
+    <rect x="292" y="0" width="38" height="18" rx="3" fill="#06B6D4"/>
+    <rect x="334" y="0" width="38" height="18" rx="3" fill="#22D3EE"/>
+    <rect x="376" y="0" width="38" height="18" rx="3" fill="#67E8F9"/>
+    <rect x="418" y="0" width="38" height="18" rx="3" fill="#4F46E5"/>
+    <rect x="460" y="0" width="38" height="18" rx="3" fill="#312E81"/>
+
+    <text x="0" y="14" font-family="sans-serif" font-size="11" fill="#64748B">Mon</text>
+    <text x="0" y="38" font-family="sans-serif" font-size="11" fill="#64748B">Tue</text>
+    <text x="0" y="62" font-family="sans-serif" font-size="11" fill="#64748B">Wed</text>
+    <text x="0" y="86" font-family="sans-serif" font-size="11" fill="#64748B">Thu</text>
+    <text x="0" y="110" font-family="sans-serif" font-size="11" fill="#64748B">Fri</text>
+    <text x="0" y="134" font-family="sans-serif" font-size="11" fill="#64748B">Sat</text>
+    <text x="0" y="158" font-family="sans-serif" font-size="11" fill="#64748B">Sun</text>
+  </g>
+</svg>

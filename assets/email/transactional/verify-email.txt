@@ -1,0 +1,1 @@
+Please verify your email: https://vessertid.example.com/verify?token=123456

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <rect width="400" height="100" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+  <text x="50" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="900" letter-spacing="1" fill="#818CF8">VESSERTID</text>
+  <text x="210" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="400" fill="#64748B">×</text>
+  <text x="245" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="800" letter-spacing="1" fill="#38BDF8">PARTNER</text>
+</svg>

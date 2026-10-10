@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" fill="none">
+  <rect width="400" height="500" rx="16" fill="#0F172A"/>
+  <circle cx="200" cy="160" r="50" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="3"/>
+  <polygon points="190,135 210,135 200,160" fill="#F59E0B"/>
+  <polygon points="190,185 210,185 200,160" fill="#F59E0B"/>
+  <text x="200" y="260" font-family="-apple-system, sans-serif" font-size="19" font-weight="900" fill="#FFFFFF" text-anchor="middle">Account Temporarily Suspended</text>
+  <text x="200" y="295" font-family="-apple-system, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">Suspension ends in 48 hours</text>
+</svg>

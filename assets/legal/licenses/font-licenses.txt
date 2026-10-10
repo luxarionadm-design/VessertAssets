@@ -1,0 +1,4 @@
+Font Licensing:
+- Inter Font Family: SIL Open Font License, 1.1
+- JetBrains Mono: Apache License 2.0
+- Noto Sans: SIL Open Font License, 1.1

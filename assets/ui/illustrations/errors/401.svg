@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" fill="none">
+  <defs>
+    <linearGradient id="e401-bg" x1="0" y1="0" x2="480" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="16" fill="url(#e401-bg)"/>
+  <!-- Padlock & Keyhole -->
+  <circle cx="240" cy="110" r="45" fill="#312E81"/>
+  <rect x="210" y="110" width="60" height="48" rx="8" fill="#6366F1"/>
+  <path d="M222 110 V90 a18 18 0 0 1 36 0 v20" stroke="#F59E0B" stroke-width="6" fill="none"/>
+  <circle cx="240" cy="130" r="4" fill="#0F172A"/>
+  <polygon points="238,130 242,130 244,142 236,142" fill="#0F172A"/>
+  <!-- Prohibited Badge -->
+  <circle cx="275" cy="145" r="16" fill="#EF4444"/>
+  <line x1="266" y1="136" x2="284" y2="154" stroke="#FFF" stroke-width="3"/>
+  <text x="240" y="210" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#F59E0B" text-anchor="middle">401</text>
+  <text x="240" y="245" font-family="-apple-system, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC" text-anchor="middle">Authentication Required</text>
+  <text x="240" y="270" font-family="-apple-system, sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">Your session token has expired or credentials are invalid.</text>
+</svg>

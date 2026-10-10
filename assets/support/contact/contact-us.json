@@ -1,0 +1,9 @@
+{
+  "supportEmail": "support@vessertid.example.com",
+  "responseTimeHours": 24,
+  "channels": [
+    "In-app Ticket",
+    "Live Chat",
+    "Email"
+  ]
+}

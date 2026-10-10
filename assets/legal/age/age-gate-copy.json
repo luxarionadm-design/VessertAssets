@@ -1,0 +1,6 @@
+{
+  "headline": "Age Verification",
+  "message": "Please enter your date of birth to continue.",
+  "minimumAge": 13,
+  "underageNotice": "You must meet the minimum age requirement to create an account."
+}

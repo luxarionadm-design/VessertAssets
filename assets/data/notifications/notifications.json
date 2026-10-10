@@ -1,0 +1,11 @@
+{
+  "notifications": [
+    {
+      "id": "notif_1",
+      "type": "like",
+      "actor": "sarah_cg",
+      "message": "liked your 3D reel",
+      "createdAt": "2026-10-10T06:30:00Z"
+    }
+  ]
+}

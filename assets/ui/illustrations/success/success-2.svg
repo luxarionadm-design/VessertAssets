@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0F172A"/>
+  <polygon points="200,60 212,98 250,98 220,120 232,158 200,135 168,158 180,120 150,98 188,98" fill="#F59E0B"/>
+  <text x="200" y="225" font-family="-apple-system, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle">Successfully Published</text>
+  <text x="200" y="255" font-family="-apple-system, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">Your 3D creation is now live on the global feed.</text>
+</svg>

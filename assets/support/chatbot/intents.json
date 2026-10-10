@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "name": "reset_password",
+      "patterns": [
+        "forgot password",
+        "reset password",
+        "cannot log in"
+      ]
+    },
+    {
+      "name": "billing_inquiry",
+      "patterns": [
+        "subscription cost",
+        "payment methods",
+        "refund request"
+      ]
+    },
+    {
+      "name": "shader_help",
+      "patterns": [
+        "how to use shaders",
+        "glsl error",
+        "webgl crash"
+      ]
+    }
+  ]
+}

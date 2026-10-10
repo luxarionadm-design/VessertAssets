@@ -1,0 +1,18 @@
+{
+  "locations": [
+    {
+      "id": "loc_1",
+      "name": "San Francisco Spatial Lab",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "postsCount": 3840
+    },
+    {
+      "id": "loc_2",
+      "name": "Tokyo Digital Art Center",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "postsCount": 5120
+    }
+  ]
+}

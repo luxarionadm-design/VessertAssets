@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0F172A"/>
+  <!-- Pedestal & Floating 3D Cube -->
+  <ellipse cx="200" cy="160" rx="70" ry="20" fill="#334155"/>
+  <polygon points="200,60 235,80 200,100 165,80" fill="#818CF8"/>
+  <polygon points="165,80 200,100 200,135 165,115" fill="#4F46E5"/>
+  <polygon points="235,80 200,100 200,135 235,115" fill="#6366F1"/>
+  <!-- Price Pill -->
+  <rect x="165" y="145" width="70" height="24" rx="12" fill="#10B981"/>
+  <text x="200" y="161" font-family="-apple-system, sans-serif" font-size="11" font-weight="800" fill="#FFF" text-anchor="middle">$4.99</text>
+  <text x="200" y="245" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFF" text-anchor="middle">3D Asset &amp; Shader Marketplace</text>
+</svg>

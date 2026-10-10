@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <circle cx="50" cy="50" r="44" fill="#CFFAFE"/>
+  <!-- Diamond Gem -->
+  <polygon points="30,35 70,35 85,50 50,80 15,50" fill="#06B6D4" stroke="#0891B2" stroke-width="2"/>
+  <polygon points="30,35 70,35 60,50 40,50" fill="#67E8F9"/>
+  <polygon points="40,50 60,50 50,80" fill="#22D3EE"/>
+</svg>

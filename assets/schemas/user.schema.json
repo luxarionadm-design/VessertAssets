@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "User",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "username": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "bio": {
+      "type": "string"
+    },
+    "avatarUrl": {
+      "type": "string"
+    },
+    "followersCount": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "id",
+    "username"
+  ],
+  "additionalProperties": false
+}

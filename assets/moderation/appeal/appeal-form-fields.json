@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "name": "case_id",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "justification",
+      "type": "textarea",
+      "required": true,
+      "maxLength": 1000
+    },
+    {
+      "name": "evidence_urls",
+      "type": "array",
+      "items": "string"
+    }
+  ]
+}

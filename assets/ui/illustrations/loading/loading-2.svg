@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0F172A"/>
+  <polygon points="200,75 230,92 200,110 170,92" fill="#818CF8"/>
+  <polygon points="170,92 200,110 200,145 170,127" fill="#4F46E5"/>
+  <polygon points="230,92 200,110 200,145 230,127" fill="#6366F1"/>
+  <text x="200" y="225" font-family="-apple-system, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle">Compiling Shaders...</text>
+  <text x="200" y="255" font-family="-apple-system, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">Building GLSL fragment and vertex pipelines.</text>
+</svg>

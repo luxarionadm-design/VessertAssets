@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "usr_01",
+      "username": "alex_3d",
+      "name": "Alex Render",
+      "bio": "WebGL & Three.js Shader Enthusiast. Creating interactive spatial worlds.",
+      "followers": 5200
+    },
+    {
+      "id": "usr_02",
+      "username": "sarah_cg",
+      "name": "Sarah Creative",
+      "bio": "Digital Sculptor & 3D Animator. Exploring real-time AR filters.",
+      "followers": 8900
+    }
+  ]
+}

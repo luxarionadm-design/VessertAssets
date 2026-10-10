@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0F172A"/>
+  <!-- Sleeping Bell -->
+  <path d="M220 100c-4-4-6-12-6-20a14 14 0 0 0-28 0c0 8-2 16-6 20h40z" fill="#475569"/>
+  <circle cx="200" cy="115" r="5" fill="#475569"/>
+  <text x="240" y="85" font-family="monospace" font-size="18" font-weight="900" fill="#A5B4FC">zZz</text>
+  <text x="200" y="235" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFF" text-anchor="middle">No New Notifications</text>
+  <text x="200" y="260" font-family="-apple-system, sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">Likes, comments, and updates will appear here.</text>
+</svg>

@@ -1,0 +1,2 @@
+# Community Guidelines
+VessertID fosters a creative, safe, and respectful spatial community. Harassment, hate speech, unconsented nudity, violent extremism, and financial fraud are strictly prohibited.

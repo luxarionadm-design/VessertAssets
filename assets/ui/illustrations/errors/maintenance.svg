@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" fill="none">
+  <rect width="480" height="320" rx="16" fill="#0F172A"/>
+  <!-- Maintenance Gears & Cones -->
+  <circle cx="210" cy="110" r="30" fill="#334155" stroke="#F59E0B" stroke-width="4"/>
+  <circle cx="210" cy="110" r="10" fill="#0F172A"/>
+  <circle cx="265" cy="130" r="20" fill="#334155" stroke="#F59E0B" stroke-width="3"/>
+  <circle cx="265" cy="130" r="7" fill="#0F172A"/>
+  <!-- Traffic Cone -->
+  <polygon points="290,160 320,160 305,100" fill="#F97316"/>
+  <polygon points="298,125 312,125 305,100" fill="#FFFFFF"/>
+  <text x="240" y="220" font-family="-apple-system, sans-serif" font-size="24" font-weight="900" fill="#F59E0B" text-anchor="middle">SYSTEM MAINTENANCE</text>
+  <text x="240" y="250" font-family="-apple-system, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">Servers are currently undergoing scheduled upgrades.</text>
+</svg>

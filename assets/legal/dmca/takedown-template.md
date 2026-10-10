@@ -1,0 +1,3 @@
+# DMCA Copyright Takedown Notice Template
+To: Copyright Agent, Legal Department
+I, [Copyright Owner or Authorized Agent], state under penalty of perjury that I am the owner of exclusive rights in the copyrighted work identified below...

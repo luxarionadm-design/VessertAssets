@@ -1,0 +1,20 @@
+{
+  "violations": [
+    {
+      "category": "spam",
+      "strike1": "warning",
+      "strike2": "24h_mute",
+      "strike3": "7d_suspension",
+      "strike4": "perm_ban"
+    },
+    {
+      "category": "hate_speech",
+      "strike1": "48h_suspension",
+      "strike2": "perm_ban"
+    },
+    {
+      "category": "csam_or_terrorism",
+      "strike1": "immediate_perm_ban_and_law_enforcement_report"
+    }
+  ]
+}

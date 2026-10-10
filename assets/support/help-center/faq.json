@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "name": "Account, Security & Verification",
+      "faqs": [
+        {
+          "q": "How do I activate Two-Factor Authentication (2FA)?",
+          "a": "Navigate to Profile > Settings > Security > Two-Factor Authentication. Scan the QR code using any standard authenticator app (Google Authenticator, 1Password) and save your 10 backup codes."
+        },
+        {
+          "q": "What are the requirements for Creator Profile Verification?",
+          "a": "Creators with at least 1,000 active followers and an original 3D portfolio can apply for verification by submitting their portfolio links and identity verification documents."
+        },
+        {
+          "q": "How do I request an export of my personal data under GDPR?",
+          "a": "Go to Privacy Settings > Export Data Archive. Our systems will compile your profile, posts, and interaction history into an encrypted JSON/CSV archive within 24 hours."
+        }
+      ]
+    },
+    {
+      "name": "3D Rendering, glTF Formats & WebGL Optimization",
+      "faqs": [
+        {
+          "q": "What 3D formats are supported by VessertID Engine?",
+          "a": "VessertID natively supports glTF 2.0 binary (.glb) and JSON (.gltf) with support for KHR_materials_unlit, KHR_texture_transform, and KHR_draco_mesh_compression."
+        },
+        {
+          "q": "What are recommended polygon limits for mobile devices?",
+          "a": "For smooth 60 FPS mobile playback, we recommend keeping models under 150,000 triangles, atlas textures capped at 2048x2048 (KTX2/WebP), and file sizes under 25 MB."
+        },
+        {
+          "q": "How can I apply custom fragment shaders to my reels?",
+          "a": "Pro creators can open the Shader Studio in the web workspace, write GLSL vertex/fragment shaders, link uniforms (time, resolution, audio reactive bands), and attach them to any 3D reel."
+        }
+      ]
+    },
+    {
+      "name": "Subscriptions, Billing & Monetization",
+      "faqs": [
+        {
+          "q": "What payment methods are supported globally?",
+          "a": "We accept all major credit/debit cards (Visa, MasterCard, American Express), Apple Pay, Google Pay, PayPal, Stripe, and regional digital wallets."
+        },
+        {
+          "q": "How does creator revenue sharing work for virtual gifts?",
+          "a": "Creators receive 70% of the net value of virtual coins gifted during live streams or on 3D reels. Payouts are processed monthly via Stripe Connect or wire transfer."
+        }
+      ]
+    }
+  ]
+}

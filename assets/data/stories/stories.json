@@ -1,0 +1,10 @@
+{
+  "stories": [
+    {
+      "id": "s_1",
+      "userId": "usr_01",
+      "mediaUrl": "assets/content/stories/story-01/media.jpg",
+      "expiresAt": "2026-10-11T07:00:00Z"
+    }
+  ]
+}

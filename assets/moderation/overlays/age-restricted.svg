@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+    <rect width="400" height="400" fill="#0F172A" fill-opacity="0.95"/>
+    <circle cx="200" cy="180" r="44" fill="#EF4444"/>
+    <text x="200" y="188" font-family="system-ui, sans-serif" font-size="22" font-weight="900" text-anchor="middle" fill="#FFFFFF">18+</text>
+    <text x="200" y="250" font-family="system-ui, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#FFFFFF">Dibatasi Berdasarkan Usia</text>
+  </svg>

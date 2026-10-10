@@ -1,0 +1,15 @@
+{
+  "startNode": "welcome_message",
+  "nodes": [
+    {
+      "id": "welcome_message",
+      "text": "Hello! I am Vessert Assistant. How can I help you today?",
+      "options": [
+        "Account Issues",
+        "Billing & Subscriptions",
+        "Report a Bug",
+        "3D Render Support"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subprocessors": [
+    {
+      "name": "Google Cloud Platform",
+      "purpose": "Hosting & Database Infrastructure",
+      "location": "Global / Multi-region"
+    },
+    {
+      "name": "Cloudflare",
+      "purpose": "DDoS Mitigation & CDN Caching",
+      "location": "Edge Global"
+    },
+    {
+      "name": "SendGrid / Twilio",
+      "purpose": "Transactional Email & SMS Delivery",
+      "location": "US / EU"
+    }
+  ]
+}

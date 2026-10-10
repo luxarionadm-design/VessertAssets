@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "posts": [
+    {
+      "id": "post_101",
+      "author": {
+        "id": "usr_01",
+        "username": "alex_3d",
+        "displayName": "Alex Render",
+        "avatar": "assets/content/avatars/avatar-01/1x.jpg"
+      },
+      "caption": "Exploring neon volumetric glow shaders in Three.js #webgl #creative #3d",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/content/posts/post-01/full.jpg",
+          "aspectRatio": 1
+        }
+      ],
+      "likesCount": 1248,
+      "commentsCount": 84,
+      "createdAt": "2026-10-10T07:00:00Z"
+    }
+  ],
+  "nextPage": 2
+}

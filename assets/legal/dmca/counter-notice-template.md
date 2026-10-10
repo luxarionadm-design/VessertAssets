@@ -1,0 +1,3 @@
+# DMCA Counter-Notice Template
+To: Copyright Agent
+I state under penalty of perjury that I have a good faith belief that the material was removed or disabled as a result of mistake or misidentification...

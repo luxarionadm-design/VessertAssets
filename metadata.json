@@ -1,0 +1,6 @@
+{
+  "name": "Static File Server",
+  "description": "Custom HTTP static file server with directory browsing and streaming capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

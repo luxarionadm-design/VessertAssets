@@ -1,0 +1,16 @@
+{
+  "statuses": {
+    "submitted": {
+      "label": "Under Review",
+      "en": "Under Review"
+    },
+    "approved": {
+      "label": "Appeal Approved",
+      "en": "Appeal Approved"
+    },
+    "rejected": {
+      "label": "Appeal Rejected",
+      "en": "Appeal Rejected"
+    }
+  }
+}
